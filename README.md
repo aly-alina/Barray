@@ -13,5 +13,4 @@ Similarly, if the barray is too big (n <= 2^(2 * (k - 1)), it shrinks.
 
 In most cases the overall overhead of a barray is less than the overhead of a traditional dynamic array (if the array is full, double the size).
 
-Example:
 [![Capture.png](https://s29.postimg.org/w08rg3hbb/Capture.png)](https://postimg.org/image/76z7ffyar/)
